@@ -1,7 +1,11 @@
 # Data-preparation-and-customer-analytics-in-Python
 # Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
+# 
+# The Retail Store Market Chain is particularly interested in customer segments and their chip purchasing behaviour. Consider what metrics would help describe the customers’ purchasing behaviour.  
 #
+# Begin performing high level data checks such as: Creating and interpreting high level summaries of the data, Finding outliers and removing these (if applicable) and     Checking data formats and correcting (if applicable)
 #
+# Derive extra features such as pack size and brand name from the data and define metrics of interest to enable you to draw insights on who spends on chips and what drives spends for each customer segment. Remember our end goal is to form a strategy based on the findings to provide a clear recommendation to the Category Manager of Retail Store Market Chain so make sure your insights can have a commercial application.
 #
 # PYTHON CODE:
 #### TASK 1 EXPLORATORY DATA ANALYSIS
